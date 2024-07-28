@@ -5,3 +5,7 @@ button {
 .email {
     color: white;
 }
+
+.email > a {
+    color: white;
+}
