@@ -1,13 +1,14 @@
 import React from "react";
+import './main.css'
 
 function MainContent() {    
     return (
         <div className="main-content">
             <div className="title">
-                <h1>Jessica Versoza</h1>
+                <h1>Sica Versoza</h1>
                 <h3>Software Developer</h3>
                 <a href="https://vsza-tech.netlify.app/"><p>vsza-tech.netlify.com</p></a>
-                <button className="email"><a href="mailto:jfverse@gmail.com">Email</a></button>
+                <button className="email"><a href="mailto:jfverse@gmail.com">Email Me: jfverse@gmail.com</a></button>
             </div>
             <div className="left-align">
                 <h3>About</h3>
