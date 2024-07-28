@@ -2,10 +2,7 @@ button {
     border: solid white 1px;
 }
 
-.email {
+.email, .email > a  {
     color: white;
 }
 
-.email > a {
-    color: white;
-}
